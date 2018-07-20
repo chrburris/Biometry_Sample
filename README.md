@@ -16,4 +16,4 @@ You will find various assignments that I find most illustrative of the course co
 * *Burris_midterm_knitted.pdf* is the knitted file as a pdf.
 
 * *Assignment_clustering.R* analyses various clustering methods
-* *Assignment_clustering_knitted.pdf* is the knitted .R file as a pdf. 
+* *Assignment_clustering_knitted.docx* is the knitted .R file as a word document. 
